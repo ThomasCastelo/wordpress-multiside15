@@ -8,7 +8,6 @@ Asegúrate de tener instaladas y funcionando las siguientes herramientas:
 Sigue estos pasos en tu terminal para descargar, configurar y arrancar el proyecto:
 1. Clonar el Repositorio
 Descarga el proyecto de GitHub.
-Bash
 git clone https://github.com/ThomasCastelo/wordpress-multiside.git
 cd wordpress-multiside
 2. Arrancar el Servidor Docker
